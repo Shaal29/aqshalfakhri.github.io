@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ced4dab4;
+}
+
+#projects {
+  background-color: #ced4dab4;
+  text-align: center;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#contact {
+  background-color: #ffffff;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  width: auto;
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  width: auto;
+  size: 25px;
+  background: #125688;
+  color: white;
+}
+
+.fa-youtube {
+  width: auto;
+  background: #bb0000;
+  color: white;
+}
